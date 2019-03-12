@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/Editing-Delete-icon (1).png</file>
+        <file>Images/icon_help.png</file>
+        <file>Images/icon4.png</file>
+        <file>Images/icon-35x35-delete.png</file>
+        <file>Images/icon-exit.png</file>
+        <file>Images/inline-graphic-2.gif</file>
+        <file>Images/black-capped-chickadee-wallpaper-768x480.jpg</file>
+        <file>Images/logo_shelom-1.png</file>
+        <file>Images/MoloaaBluffs.jpg</file>
+    </qresource>
+</RCC>
